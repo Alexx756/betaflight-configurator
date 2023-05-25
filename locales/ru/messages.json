@@ -2674,7 +2674,7 @@
         "message": "Загрузить прошивку [Online]"
     },
     "firmwareFlasherButtonDownloading": {
-        "message": "Загружаеться..."
+        "message": "Загружается..."
     },
     "firmwareFlasherExitDfu": {
         "message": "Выйти из режима DFU"
